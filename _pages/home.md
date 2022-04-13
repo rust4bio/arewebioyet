@@ -16,27 +16,27 @@ The Rust bioinformatics ecosystem contains general, easy-to-use crates like [bio
 
 Here you can find all sorts of bioinformatics crates that were created by the Rust community:
 
-* **bio** ([repo](https://github.com/rust-bio/rust-bio) \| [docs](https://docs.rs/bio) | [crates.io](https://crates.io/crates/bio)) - Implementations of many useful bioinformatics data structures and algorithms, including pattern matching, alignment, suffix arrays, BWT, FM-Index, and parsers for common file types.
+* **bio** ([repo](https://github.com/rust-bio/rust-bio) \| [docs](https://docs.rs/bio) \| [crates.io](https://crates.io/crates/bio)) - Implementations of many useful bioinformatics data structures and algorithms, including pattern matching, alignment, suffix arrays, BWT, FM-Index, and parsers for common file types.
 
-* **coitrees** ([repo](https://github.com/dcjones/coitrees) | [docs](https://docs.rs/coitrees/) | [crates.io](https://crates.io/crates/coitrees)) - Cache oblivious interval tree implementation for very fast overlap queries of a static set of integer intervals, with genomic intervals in mind.
+* **coitrees** ([repo](https://github.com/dcjones/coitrees) \| [docs](https://docs.rs/coitrees/) \| [crates.io](https://crates.io/crates/coitrees)) - Cache oblivious interval tree implementation for very fast overlap queries of a static set of integer intervals, with genomic intervals in mind.
 
-* **debruijn** ([repo](https://github.com/10XGenomics/rust-debruijn) | [docs](https://docs.rs/debruijn) | [crates.io](https://crates.io/crates/debruijn) - De Bruijn graph construction & path compression libraries.
+* **debruijn** ([repo](https://github.com/10XGenomics/rust-debruijn) \| [docs](https://docs.rs/debruijn) \| [crates.io](https://crates.io/crates/debruijn) - De Bruijn graph construction & path compression libraries.
 
-* **fastq-rs** ([repo](https://github.com/aseyboldt/fastq-rs) | [docs]() | [crates.io]()) - A fast parser for FASTQ.
+* **fastq-rs** ([repo](https://github.com/aseyboldt/fastq-rs) \| [docs]() \| [crates.io]()) - A fast parser for FASTQ.
 
-* **htsget-rs** ([repo](https://github.com/umccr/htsget-rs) | [docs]() | [crates.io]()) - GA4GH's [htsget](https://samtools.github.io/hts-specs/htsget.html) implementation.
+* **htsget-rs** ([repo](https://github.com/umccr/htsget-rs) \| [docs]() \| [crates.io]()) - GA4GH's [htsget](https://samtools.github.io/hts-specs/htsget.html) implementation.
 
-* **needletail** ([repo](https://github.com/onecodex/needletail) | [docs](https://docs.rs/needletail) | [crates.io](https://crates.io/crates/needletail)) - Fast FASTX parsing and k-mer methods in Rust.
+* **needletail** ([repo](https://github.com/onecodex/needletail) \| [docs](https://docs.rs/needletail) \| [crates.io](https://crates.io/crates/needletail)) - Fast FASTX parsing and k-mer methods in Rust.
 
 * **niffler** ([repo](https://github.com/luizirber/niffler)) - Simple and transparent support for compressed files.
 
-* **noodles** ([repo](https://github.com/zaeleus/noodles) | [docs](https://docs.rs/noodles) | [crates.io](https://crates.io/crates/noodles)) - Pure Rust bioinformatics I/O libraries.
+* **noodles** ([repo](https://github.com/zaeleus/noodles) \| [docs](https://docs.rs/noodles) \| [crates.io](https://crates.io/crates/noodles)) - Pure Rust bioinformatics I/O libraries.
 
-* **rust-htslib** ([repo](https://github.com/rust-bio/rust-htslib) | [docs](https://docs.rs/rust-htslib) | [crates.io](https://crates.io/crates/rust-htslib)) - Provides HTSlib bindings and a high level Rust API for reading and writing BAM files.
+* **rust-htslib** ([repo](https://github.com/rust-bio/rust-htslib) \| [docs](https://docs.rs/rust-htslib) \| [crates.io](https://crates.io/crates/rust-htslib)) - Provides HTSlib bindings and a high level Rust API for reading and writing BAM files.
 
-* **seq_io** ([repo](https://github.com/markschl/seq_io)  | [docs]() | [crates.io]()) - FASTA and FASTQ parsing and writing in Rust.
+* **seq_io** ([repo](https://github.com/markschl/seq_io)  \| [docs]() \| [crates.io]()) - FASTA and FASTQ parsing and writing in Rust.
 
-* **tripe_accel** ([repo]() | [docs]() | [crates.io](https://crates.io/crates/triple_accel)) - Rust edit distance routines accelerated using SIMD. Supports fast Hamming, Levenshtein, restricted Damerau-Levenshtein, etc. distance calculations and string search.
+* **tripe_accel** ([repo]() \| [docs]() \| [crates.io](https://crates.io/crates/triple_accel)) - Rust edit distance routines accelerated using SIMD. Supports fast Hamming, Levenshtein, restricted Damerau-Levenshtein, etc. distance calculations and string search.
 
 
 ## Tools
