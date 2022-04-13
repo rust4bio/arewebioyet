@@ -36,7 +36,7 @@ Here you can find all sorts of bioinformatics crates that were created by the Ru
 
 * **seq_io** ([repo](https://github.com/markschl/seq_io)  \| [docs]() \| [crates.io]()) - FASTA and FASTQ parsing and writing in Rust.
 
-* **tripe_accel** ([repo]() \| [docs]() \| [crates.io](https://crates.io/crates/triple_accel)) - Rust edit distance routines accelerated using SIMD. Supports fast Hamming, Levenshtein, restricted Damerau-Levenshtein, etc. distance calculations and string search.
+* **triple_accel** ([repo](https://github.com/Daniel-Liu-c0deb0t/triple_accel) \| [docs](https://docs.rs/triple_accel) \| [crates.io](https://crates.io/crates/triple_accel)) - Rust edit distance routines accelerated using SIMD. Supports fast Hamming, Levenshtein, restricted Damerau-Levenshtein, etc. distance calculations and string search.
 
 
 ## Tools
