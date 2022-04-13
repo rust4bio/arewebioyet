@@ -62,6 +62,8 @@ Here you can find all sorts of bioinformatics crates that were created by the Ru
 
 * **fmlrc2** ([repo](https://crates.io/crates/fmlrc)) - A tool for correcting long, noisy reads from short reads.
 
+* **galah** ([repo](https://github.com/wwood/galah)) - More scalable dereplication for metagenome assembled genomes.
+
 * **hyperex** ([repo](https://github.com/Ebedthan/hyperex)) - Hypervariable region primer-based extractor for 16S rRNA and other SSU/LSU sequences.
 
 * **noodles-squab** ([repo](https://github.com/zaeleus/noodles-squab)) - Noodles squab performs gene expression quantification by counting the number of aligned records that intersects a set of features. Output can be the raw counts or normalized counts in TPM (transcripts per million) or FPKM (fragments per kilobase per million mapped reads).
@@ -80,6 +82,8 @@ Here you can find all sorts of bioinformatics crates that were created by the Ru
 ### Transcriptomics analysis
 
 * **alevin-fry** ([repo](https://github.com/COMBINE-lab/alevin-fry)) - An efficient and flexible tool for processing single-cell sequencing data, currently focused on single-cell transcriptomics and feature barcoding.
+
+* **mudskipper** ([repo](https://github.com/OceanGenomics/mudskipper)) - A tool for projecting genomic alignments to transcriptomic coordinates.
 
 
 
