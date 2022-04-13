@@ -62,7 +62,7 @@ Here you can find all sorts of bioinformatics crates that were created by the Ru
 
 * **finch** ([repo](https://github.com/onecodex/finch-rs)) - A genomic MinHashing implementation.
 
-* **fmlrc2** ([repo](https://crates.io/crates/fmlrc)) - A tool for correcting long, noisy reads from short reads.
+* **fmlrc2** ([repo](https://github.com/HudsonAlpha/rust-fmlrc)) - A tool for correcting long, noisy reads from short reads.
 
 * **galah** ([repo](https://github.com/wwood/galah)) - More scalable dereplication for metagenome assembled genomes.
 
