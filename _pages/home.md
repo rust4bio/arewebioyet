@@ -32,6 +32,8 @@ Here you can find all sorts of bioinformatics crates that were created by the Ru
 
 * **noodles** ([repo](https://github.com/zaeleus/noodles) \| [docs](https://docs.rs/noodles) \| [crates.io](https://crates.io/crates/noodles)) - Pure Rust bioinformatics I/O libraries.
 
+* **rust-boomphf** ([repo](https://github.com/10XGenomics/rust-boomphf) \| [docs](https://docs.rs/boomphf) \| [crates.io](https://crates.io/crates/boomphf)) - Fast and scalable minimal perfect hashing for massive key sets.
+
 * **rust-htslib** ([repo](https://github.com/rust-bio/rust-htslib) \| [docs](https://docs.rs/rust-htslib) \| [crates.io](https://crates.io/crates/rust-htslib)) - Provides HTSlib bindings and a high level Rust API for reading and writing BAM files.
 
 * **seq_io** ([repo](https://github.com/markschl/seq_io)  \| [docs]() \| [crates.io]()) - FASTA and FASTQ parsing and writing in Rust.
@@ -41,11 +43,20 @@ Here you can find all sorts of bioinformatics crates that were created by the Ru
 
 ## Tools
 
+### Genome Assembly
+
+* **rust-mdbg** ([repo](https://github.com/ekimb/rust-mdbg)) - Minimizer-space de Bruijn graphs (mdBG) implementation for whole-genome assembly.
+
+* **Peregrine** ([repo](https://github.com/cschin/peregrine-2021/)) - A genome assembler designed for long-reads that have good enough accuracy.
+
+
 ### (Meta) Genomic analysis
 
 * **bamtofastq** ([repo](https://github.com/10XGenomics/bamtofastq)) - Tool for converting 10x BAMs produced back into to FASTQ files.
 
 * **bcl2fastr** ([repo](https://github.com/czbiohub/bcl2fastr)) - Faster bcl2fastq implementation.
+
+* **CoverM** ([repo](https://github.com/wwood/CoverM)) - Read coverage calculator for metagenomics.
 
 * **finch** ([repo](https://github.com/onecodex/finch-rs)) - A genomic MinHashing implementation.
 
@@ -65,9 +76,6 @@ Here you can find all sorts of bioinformatics crates that were created by the Ru
 
 * **yacrd** ([repo](https://github.com/natir/yacrd)) - Yet Another Chimeric Read Detector for long reads.
 
-### Assembly
-
-* **rust-mdbg** ([repo](https://github.com/ekimb/rust-mdbg)) - Minimizer-space de Bruijn graphs (mdBG) implementation for whole-genome assembly.
 
 ### Transcriptomics analysis
 
@@ -77,9 +85,13 @@ Here you can find all sorts of bioinformatics crates that were created by the Ru
 
 ### Variant calling
 
+* **echtvar** ([repo](https://github.com/brentp/echtvar)) - Really, truly rapid variant annotation and filtering.
+
 * **prosolo** ([repo](https://github.com/ProSolo/prosolo)) - A variant caller for multiple displacement amplified DNA sequencing data from diploid single cells.
 
 * **varlociraptor** ([repo](https://crates.io/crates/varlociraptor)) - Varlociraptor implements a novel, unified fully uncertainty-aware approach to genomic variant calling in arbitrary scenarios.
+
+* **vartrix** ([repo](https://github.com/10XGenomics/vartrix)) -  Single-Cell Genotyping Tool.
 
 
 
