@@ -8,7 +8,7 @@ permalink: /
 
 (but many projects are still work-in-progress)
 
-The Rust bioinformatics ecosystem contains general, easy-to-use crates like [bio](https://crates.io/crates/bio), along with a plethora of crates for specific tasks.
+The Rust bioinformatics ecosystem contains general, easy-to-use crates like [bio](https://github.com/rust-bio/rust-bio), along with a plethora of crates for specific tasks.
 
 # Ecosystem
 
