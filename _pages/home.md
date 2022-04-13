@@ -4,7 +4,7 @@ layout: single
 permalink: /
 ---
 
-🎉 Yes! 🎉🎉🎉
+Yes! 🎉🎉🎉
 
 (but many projects are still work-in-progress)
 
@@ -56,6 +56,8 @@ Here you can find all sorts of bioinformatics crates that were created by the Ru
 
 * **bcl2fastr** ([repo](https://github.com/czbiohub/bcl2fastr)) - Faster bcl2fastq implementation.
 
+* **block-aligner** ([repo](https://github.com/Daniel-Liu-c0deb0t/block-aligner)) - SIMD-accelerated library for computing global and X-drop affine gap penalty sequence-to-sequence or sequence-to-profile alignments using an adaptive block-based algorithm.
+
 * **CoverM** ([repo](https://github.com/wwood/CoverM)) - Read coverage calculator for metagenomics.
 
 * **finch** ([repo](https://github.com/onecodex/finch-rs)) - A genomic MinHashing implementation.
@@ -70,7 +72,7 @@ Here you can find all sorts of bioinformatics crates that were created by the Ru
 
 * **noodles-squab** ([repo](https://github.com/zaeleus/noodles-squab)) - Noodles squab performs gene expression quantification by counting the number of aligned records that intersects a set of features. Output can be the raw counts or normalized counts in TPM (transcripts per million) or FPKM (fragments per kilobase per million mapped reads).
 
-* **perbase** ([repo](https://crates.io/crates/perbase)) - A highly parallelized utility for generating per-base level metrics.
+* **perbase** ([repo](https://github.com/sstadick/perbase)) - A highly parallelized utility for generating per-base level metrics.
 
 * **rasusa** ([repo](https://github.com/mbhall88/rasusa)) - **Ra**ndomly **su**b**sa**mple sequencing reads to a specified coverage.
 
