@@ -104,6 +104,11 @@ Here you can find all sorts of bioinformatics crates that were created by the Ru
 * **vartrix** ([repo](https://github.com/10XGenomics/vartrix)) -  Single-Cell Genotyping Tool.
 
 
+## Miscelaneous
+
+* **cute nucleotides** ([repo](https://github.com/Daniel-Liu-c0deb0t/cute-nucleotides)) - Cute tricks for SIMD vectorized binary encoding and decoding of nucleotides, in Rust.
+
+
 
 # Contributing
 
