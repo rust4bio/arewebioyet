@@ -66,6 +66,8 @@ Here you can find all sorts of bioinformatics crates that were created by the Ru
 
 * **hyperex** ([repo](https://github.com/Ebedthan/hyperex)) - Hypervariable region primer-based extractor for 16S rRNA and other SSU/LSU sequences.
 
+* **mfqe** ([repo](https://github.com/wwood/mfqe)) -  FASTA/FASTQ extractor for multiple sets of read names.
+
 * **noodles-squab** ([repo](https://github.com/zaeleus/noodles-squab)) - Noodles squab performs gene expression quantification by counting the number of aligned records that intersects a set of features. Output can be the raw counts or normalized counts in TPM (transcripts per million) or FPKM (fragments per kilobase per million mapped reads).
 
 * **perbase** ([repo](https://crates.io/crates/perbase)) - A highly parallelized utility for generating per-base level metrics.
@@ -73,6 +75,8 @@ Here you can find all sorts of bioinformatics crates that were created by the Ru
 * **rasusa** ([repo](https://github.com/mbhall88/rasusa)) - **Ra**ndomly **su**b**sa**mple sequencing reads to a specified coverage.
 
 * **sabreur** ([repo](https://github.com/Ebedthan/sabreur)) - Fast, reliable and handy demultiplexing tool for fastx files.
+
+* **smafa** ([repo](https://github.com/wwood/smafa)) - Biological sequence aligner for pre-aligned sequences.
 
 * **sourmash** ([repo](https://github.com/dib-lab/sourmash)) - Quickly search, compare, and analyze genomic and metagenomic data sets.
 
