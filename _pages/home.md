@@ -113,3 +113,7 @@ Here you can find all sorts of bioinformatics crates that were created by the Ru
 # Contributing
 
 You can use the [editor on GitHub](https://github.com/rust4bio/arewebioyet/edit/main/_pages/home.md) to contribute to this page. Feel free to list new bioinformatics crates or CLI! Of course, you can also contribute to the ecosystem by writing a new Rust crate.
+
+
+### Credits
+This is an up-to-date and maintained fork of the initial [are we bio yet site](https://arewebioyet.github.io/) which has become non-responsive. 
